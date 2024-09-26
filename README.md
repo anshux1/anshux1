@@ -1,12 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anshu Kumar singh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshux1&label=Profile%20views&color=0e75b6&style=flat" alt="anshux1" /> </p>
 
-
 - 🌱 I’m currently learning **Docker and Websockets**
-
-- 💬 Ask me about **MERN**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
